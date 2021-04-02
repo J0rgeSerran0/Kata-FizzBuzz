@@ -3,8 +3,8 @@ Kata or programming game about a FizzBuzz solution
 
 ## In this code
 
-If a number is divisible by **3**, you should return **Buzz**
-If a number is divisible by **5**, you should return **Fizz**
+If a number is divisible by **3**, you should return **Fizz**
+If a number is divisible by **5**, you should return **Buzz**
 
 But if a number is divisible by **3 AND 5**, you should return **FizzBuzz**
 
