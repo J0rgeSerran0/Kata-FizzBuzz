@@ -9,6 +9,8 @@ If a number is divisible by **5**, you should return **Buzz**
 
 But if a number is divisible by **3 AND 5**, you should return **FizzBuzz**
 
+> In this sample code, if the number is not divisible by 3 and/or 5, returns an empty text, but it could return the number too instead of an empty text
+
 ## Adding complexity (not covered in this sample code)
 
 There are another additional complex rules for this game.
